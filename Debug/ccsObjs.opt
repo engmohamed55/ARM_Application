@@ -1,0 +1,1 @@
+"./GPIO.obj" "./I2C.obj" "./LCD.obj" "./OS.obj" "./OS_cfg.obj" "./PWM.obj" "./Timer.obj" "./UART.obj" "./clock.obj" "./clock_conf.obj" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd" -llibc.a 
